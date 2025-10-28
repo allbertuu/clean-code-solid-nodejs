@@ -1,0 +1,22 @@
+{
+  "name": "clean-code-solid-nodejs",
+  "version": "1.0.0",
+  "description": "Aplicação prática de conceitos de SOLID em Node.js orientado ao paradigma funcional",
+  "keywords": [
+    "clean-code",
+    "solid",
+    "nodejs",
+    "paradigma",
+    "funcional"
+  ],
+  "license": "ISC",
+  "author": "Alberto Santos",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
